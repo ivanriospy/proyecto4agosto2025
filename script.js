@@ -1,1 +1,1 @@
-console.log("Versión 2 del script cargada a las " + new Date().toLocaleTimeString());
+console.log("Versión 3 del script cargada a las " + new Date().toLocaleTimeString());
