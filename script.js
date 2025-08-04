@@ -1,0 +1,1 @@
+console.log("Versión 1 del script cargada a las " + new Date().toLocaleTimeString());
